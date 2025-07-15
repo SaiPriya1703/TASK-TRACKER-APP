@@ -1,0 +1,25 @@
+/* src/components/TaskCard.css */
+.task-card {
+  background: #fff;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-left: 5px solid #4caf50;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
+}
+
+.task-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 0.3rem;
+}
+
+.task-desc {
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+}
+
+.task-date {
+  font-size: 0.85rem;
+  color: #666;
+}
