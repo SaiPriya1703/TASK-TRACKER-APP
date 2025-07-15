@@ -2,7 +2,7 @@
 
 A full-stack **Task Management App** built using **MERN Stack** (MongoDB, Express, React, Node.js) with features like task creation, filtering, completion status, reminders, and more.
 
-![Screenshot](https://your-screenshot-url-if-any.png)
+
 
 ---
 
