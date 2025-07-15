@@ -1,12 +1,26 @@
-# React + Vite
+# ✅ Task Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack **Task Management App** built using **MERN Stack** (MongoDB, Express, React, Node.js) with features like task creation, filtering, completion status, reminders, and more.
 
-Currently, two official plugins are available:
+![Screenshot](https://your-screenshot-url-if-any.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Links
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔗 Frontend: [https://github.com/SaiPriya1703/task-tracker-frontend](https://github.com/SaiPriya1703/task-tracker-frontend)
+- 🔗 Backend: [https://github.com/SaiPriya1703/task-tracker-backend](https://github.com/SaiPriya1703/task-tracker-backend)
+
+---
+
+## 📌 Features
+
+- ✅ User Authentication (Login & Signup with JWT)
+- 📝 Add, Edit, Delete Tasks
+- ⏰ Reminders for due and overdue tasks
+- 🎯 Mark Tasks as Completed
+- 📁 View Completed Tasks History
+- 📊 Filter Tasks by Status
+- 📦 Toast Notifications
+- 🔒 Protected Routes using JWT
+
